@@ -17,9 +17,9 @@
     ],
     "require": {
         "php": "^8.2",
-        "illuminate/contracts": "^11.0",
-        "illuminate/mail": "^11.0",
-        "illuminate/support": "^11.0",
+        "illuminate/contracts": "^12.0",
+        "illuminate/mail": "^12.0",
+        "illuminate/support": "^12.0",
         "sendinblue/api-v3-sdk": "^8.3",
         "spatie/laravel-package-tools": "^1.9.2",
         "symfony/http-client": "^6.1",
